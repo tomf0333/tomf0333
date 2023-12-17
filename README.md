@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomf0333
 - 👀 I’m interested in - programming/developing software
-- 🌱 I’m currently learning - computer science at the hebrew university of jerusalem 3rd year
+- 🌱 computer science at the hebrew university of jerusalem graduate
 - 📫 How to reach me - tomfeldboy@gmail.com
 
 <!---
